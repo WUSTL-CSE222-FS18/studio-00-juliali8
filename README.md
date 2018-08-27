@@ -19,11 +19,25 @@ For each item that has multiple ingredients, create a sub list of a few (2-5) of
 
 ***Q2. Create your list here:***
 
+1. Pizza
+1. Poke
+  1. Salmon
+  1. Rice
+  1. Avocado
+1. Peking Duck
+  * Duck
+  * Buns
+  * Hoisin Sauce
+1. Sushi
+1. Fried Rice
+
 ### Headings
 
 Headings and sub-headings help separate the content of a document.
 
 ***Q3. Add a new third tier heading to this document named "My Heading" here:***
+
+### My Heading
 
 ### Code
 
@@ -31,15 +45,34 @@ Markdown is often used to document code.  Consequently, it supports embedding co
 
 ***Q4. Create a code block below and include a Java `for`-loop that prints numbers from 0 to 10. Be sure to indicate that it's Java, which will cause Java keywords to be highlighted (for example, depending on your configuration `for` may be purple in the preview window; `int` may be orange, etc.):***
 
+``` Java
+for (int i=0; i<=10; i++) {
+  System.out.println(i);
+}
+```
+
 ## Part 2: What is IoT
 
 This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-things-examples/) has a list of examples of IoT.  Pick any three categories (Body, Home City, Industry, etc.) and review any one example of each.
 
 ***Q5.  Based on your reviews, create a table of the top four distinguishing features of IoT applications. One column of the table should have a brief name for the feature (1-4 words) and the second column should have an explanation:***
 
+Feature | Description
+------- | -------------
+Connectivity | Data collected by the application can be sent electronically
+Convenience | Because of the communication and data collecting functionalities of the applications, people can just use the application and nothing else.
+Accuracy | Because of technology is involved, the data collected is more accurate.
+Safety | Many applications involve safety features, and because things are connected, people can be notified.
+
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
 ***Q6.  For each example: 1) provide a link to it, 2) provide a brief summary of it, and 3) explain how it corresponds to distinguishing features you identified above and/or or how you may want to revise your list of distinguishing features.  Use lists/sublists to format your answer to this question (A numbered list of 2 items, each of which as 3 sub-items):***
+
+1. https://august.com/
+  * Connectivity - the lock and phone are connected so that the user can access it anywhere
+  * Convenience - There is no need to return to the location of the lock
+  * Safety - If you forget to lock your door, as long as you have your phone, you will not have to worry.
+1.
 
 ## Part 3: Comparing with Peers
 
